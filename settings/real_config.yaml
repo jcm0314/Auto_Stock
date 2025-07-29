@@ -1,0 +1,11 @@
+APP_KEY: ""
+APP_SECRET: ""
+
+CANO: ""
+ACNT_PRDT_CD: ""
+
+#실전투자
+URL_BASE: "https://openapi.koreainvestment.com:9443"
+
+#디스코드 웹훅
+DISCORD_WEBHOOK_URL: ""
